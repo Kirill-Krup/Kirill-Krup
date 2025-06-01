@@ -4,6 +4,12 @@
   width="600"
   height="300"
 />
+</a>>
+<img
+  src="https://render.gitanimals.org/farms/Kirill-Krup"
+  width="600"
+  height="300"
+/>
 </a>
 
 # Tech Stack:
